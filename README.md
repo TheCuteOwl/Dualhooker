@@ -1,2 +1,27 @@
-# Dualhooker
-Explore this open-source Python toolkit that simplifies dual hooking, making the process even more accessible and efficient for your GitHub projects. (If you use it you're a bad person
+i don't know if i will update it, because it still work
+and if you use it you are a bad person, i've make this project because i'm bored
+
+
+## 🌐 〢 Content
+- [🤖・Features](#features)
+- [👁️・Features Explanation](#explanation)
+- [🔎・How to install](#Install)
+- [📝・Changelog](#changelog)
+- [💼・Term](#terms)
+
+
+## <a id="features"></a>🤖・Features
+Generate undetectable Dualhook (0 AV detection)
+
+## <a id="Install"></a>🔎・How to install
+
+You just need to put your code into code.txt
+and start main.py, then you will get the payload in output.txt
+
+
+## <a id="changelog"></a>📝・Changelog
+1.0.0 Generate the working payload and use only urllib.request
+
+## <a id="terms"></a>💼・Terms
+This script is for educational purposes only. Use it at your own risk. The developer is not responsible for any damage caused by the misuse of this script.
+
