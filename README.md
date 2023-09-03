@@ -1,5 +1,4 @@
-i don't know if i will update it, because it still work
-and if you use it you are a bad person, i've make this project because i'm bored
+If you have any ideas of what to improve open an issues
 
 
 ## 🌐 〢 Content
