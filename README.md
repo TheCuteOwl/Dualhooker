@@ -1,4 +1,4 @@
-If you have any ideas of what to improve open an issues
+If you have any ideas of what to improve open an issues, please
 
 
 ## 🌐 〢 Content
